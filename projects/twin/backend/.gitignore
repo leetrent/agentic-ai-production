@@ -2,3 +2,5 @@
 __pycache__/
 facts.json
 summary.txt
+lambda-deployment.zip
+lambda-package
